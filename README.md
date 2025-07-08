@@ -6,7 +6,7 @@ This project uncovers lookalike Kaggle users based on contribution behavior, ran
 
 ##  Goal
 
-To analyze Kaggle user behavior and **find similar users** using engineered features and cosine similarity — creating a system that helps:
+To analyze Kaggle user behavior and **find similar users** using engineered features and cosine similarity, creating a system that helps:
 
 - New users discover role models to follow  
 - Community builders connect like-minded contributors  
@@ -37,5 +37,5 @@ To analyze Kaggle user behavior and **find similar users** using engineered feat
 
 ##  Demo Video
 
-📺 [Watch the full walkthrough on YouTube]((https://youtu.be/LFTeD_D2U1U?feature=shared))
+📺 [Watch the full walkthrough on YouTube] ((https://youtu.be/LFTeD_D2U1U?feature=shared))
 
